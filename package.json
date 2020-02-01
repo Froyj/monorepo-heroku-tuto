@@ -1,0 +1,22 @@
+{
+  "name": "heroku-deployment-tutorial",
+  "version": "1.0.0",
+  "description": "Deployment procedure of React/Express app monorepo with Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Froyj/monorepo-heroku-tuto.git"
+  },
+  "keywords": [
+    "deployment"
+  ],
+  "author": "Geoffroy Periot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Froyj/monorepo-heroku-tuto/issues"
+  },
+  "homepage": "https://github.com/Froyj/monorepo-heroku-tuto#readme"
+}
